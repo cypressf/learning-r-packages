@@ -1,0 +1,10 @@
+Package: LearningPackages
+Type: Package
+Title: Testing package development
+Version: 0.1.0
+Author: Cypress
+Maintainer: iamcypress@gmail.com
+Description: Just a test
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
